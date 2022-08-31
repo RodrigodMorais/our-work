@@ -12,7 +12,7 @@ Assuntos importantes abordados:
   * Responsividade
   * Mobile First 
 
-Figma: http://127.0.0.1:5500/Projetos%20do%20Programa%20Explorer/Stage-03/our-work/index.html#
+Figma: https://www.figma.com/file/Xgv0dMFmtmlfA3taGXUraH/Explorer-Stage-03-Projeto-02-(Copy)?node-id=203%3A412
 
 <br>
 
